@@ -1,7 +1,6 @@
 import requests
 #porta id : 13536
 
-api = 'e31adb2e63854113928b8351b55c0a7f'
 api_in_url = '?key=' + api
 url = 'https://api.rawg.io/api'
 
